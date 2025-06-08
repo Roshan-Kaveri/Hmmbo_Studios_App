@@ -1,6 +1,6 @@
 import { plugins } from "@/app/constants/plugins";
 
-import DisplayCard from "./DisplayCard";
+
 import FeaturedCard from "./FeaturedCard";
 
 import { useKeenSlider } from "keen-slider/react";
